@@ -11,7 +11,6 @@ Day to day work: this is the normal flow - for pushing changes from local to rem
 - Add specific file to stage - git add <FILE_NAME> or git add .
 - commit those files to local repo - git commit -m 'COMMIT MESSAGE GO HERE'
 - then push those changes to remote repo/branch - git push origin BRANCH_NAME
-- hsdhdgvcdhgj
   /// What the pull reaquest will do? - done on main branch
 - git fetch // on main
 - git merge BRNACH_NAME (from where we have created a pull request)// darsh-feature-1
